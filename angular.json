@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/lemonmart-theme.scss",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "lemon-mart"
+    }
+  },
+  "defaultProject": "lemon-mart",
+  "cli": {
+    "analytics": "65d1b848-f0eb-43b4-83e4-2d6b6b20f5a5"
+  }
 }
